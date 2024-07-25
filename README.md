@@ -1,5 +1,5 @@
 # [Home Page](https://noelcodes.github.io/)
-# Capstone-Project
+# CudaCapstone-Project
 ### Title: Enhance shopping experience thru product image recognition
 #### Technique : Image Classification using Keras + Tensorflow Object Detection API + OpenCV + Faster-RCNN
 ![alt text](https://i.imgur.com/0y1SB7u.jpg)
